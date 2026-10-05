@@ -1,0 +1,6 @@
+{
+  "name": "FITPLAN",
+  "description": "Comprehensive health & fitness app with workouts, activities tracking, nutrition, and progress insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

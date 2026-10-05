@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group>
+        <!-- Center Handle Bar -->
+        <path
+            android:fillColor="#CEFD27"
+            android:pathData="M44,50 h20 v8 h-20 z" />
+
+        <!-- Left Outer Plate (large vertical pill) -->
+        <path
+            android:fillColor="#CEFD27"
+            android:pathData="M27,38 C27,33.5 29.5,31 34,31 C38.5,31 41,33.5 41,38 L41,70 C41,74.5 38.5,77 34,77 C29.5,77 27,74.5 27,70 Z" />
+
+        <!-- Left Inner Plate (medium vertical pill) -->
+        <path
+            android:fillColor="#CEFD27"
+            android:pathData="M43,43 C43,40 44.5,38 48,38 C51.5,38 53,40 53,43 L53,65 C53,68 51.5,70 48,70 C44.5,70 43,68 43,65 Z" />
+
+        <!-- Right Inner Plate (medium vertical pill) -->
+        <path
+            android:fillColor="#CEFD27"
+            android:pathData="M55,43 C55,40 56.5,38 60,38 C63.5,38 65,40 65,43 L65,65 C65,68 63.5,70 60,70 C56.5,70 55,68 55,65 Z" />
+
+        <!-- Right Outer Plate (large vertical pill) -->
+        <path
+            android:fillColor="#CEFD27"
+            android:pathData="M67,38 C67,33.5 69.5,31 74,31 C78.5,31 81,33.5 81,38 L81,70 C81,74.5 78.5,77 74,77 C69.5,77 67,74.5 67,70 Z" />
+    </group>
+</vector>

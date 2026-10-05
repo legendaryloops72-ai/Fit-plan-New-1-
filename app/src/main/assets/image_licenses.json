@@ -1,0 +1,517 @@
+{
+  "push_ups": {
+    "exerciseName": "Push-ups",
+    "file": "exercises/home_workout/push_ups.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAirman_executing_a_push-up_as_part_of_the_United_States_Air_Force_Fitness_Test.jpg",
+    "photographer": "United States Air Force",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "downloadDate": "2026-09-27"
+  },
+  "bodyweight_squats": {
+    "exerciseName": "Bodyweight Squats",
+    "file": "exercises/home_workout/bodyweight_squats.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2-2CR_conducts_physical_training_during_AgS19_%285623245%29.jpg",
+    "photographer": "U.S. Army photo by Pfc. Denice Parker",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "downloadDate": "2026-09-27"
+  },
+  "plank": {
+    "exerciseName": "Plank Hold",
+    "file": "exercises/home_workout/plank.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A20th_Public_Affairs_Detachment_Soldiers_Take_the_Army_Combat_Fitness_Test_%288806557%29.jpg",
+    "photographer": "U.S. Army photo by Pfc. Michelle Lessard-Terry",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "downloadDate": "2026-09-27"
+  },
+  "mountain_climbers": {
+    "exerciseName": "Mountain Climbers",
+    "file": "exercises/home_workout/mountain_climbers.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStaying_%27kid%27_fit_all_spring_long_140317-M-TH981-003.jpg",
+    "photographer": "Kristen Wong",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "downloadDate": "2026-09-27"
+  },
+  "lunges": {
+    "exerciseName": "Lunges",
+    "file": "exercises/home_workout/lunges.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAirman_performing_lunge.jpg",
+    "photographer": "U.S. Air Force photo by Senior Airman Myles Stepp",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "downloadDate": "2026-09-27"
+  },
+  "jumping_jacks": {
+    "exerciseName": "Jumping Jacks",
+    "file": "exercises/home_workout/jumping_jacks.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AUS_Navy_040806-N-9951B-066_Chief_Petty_Officer_%28Selectees%29_participate_in_a_round_of_jumping_jacks_during_an_early_morning_physical_training_session_in_the_hangar_bay_aboard_the_aircraft_carrier_USS_Abraham_Lincoln_%28CVN_72%29.jpg",
+    "photographer": "U.S. Navy photo by Photographer\u2019s Mate 3rd Class Elizabeth A. Bartneck",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "downloadDate": "2026-09-27"
+  },
+  "glute_bridges": {
+    "exerciseName": "Glute Bridges",
+    "file": "exercises/home_workout/glute_bridges.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASetubandhasana_oblique_view.JPG",
+    "photographer": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "downloadDate": "2026-09-27"
+  },
+  "sun_salutation_a": {
+    "exerciseName": "Sun Salutation A",
+    "file": "exercises/yoga/sun_salutation_a.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AIndian_Navy_personnel_perform_Surya_Namaskar_on_board_INS_Sunayna_in_2015.JPG",
+    "photographer": "Indian Navy",
+    "license": "GODL-India",
+    "licenseUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+    "downloadDate": "2026-09-27"
+  },
+  "downward_facing_dog": {
+    "exerciseName": "Downward-Facing Dog",
+    "file": "exercises/yoga/downward_facing_dog.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAdho_mukha_shvanasana.jpg",
+    "photographer": "UmaPrykhodko",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-09-27"
+  },
+  "warrior_ii": {
+    "exerciseName": "Warrior II",
+    "file": "exercises/yoga/warrior_ii.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AVirabhadrasana_II_-_Warrior_II_Pose.jpg",
+    "photographer": "lululemon athletica",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "downloadDate": "2026-09-27"
+  },
+  "triangle_pose": {
+    "exerciseName": "Triangle Pose",
+    "file": "exercises/yoga/triangle_pose.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ATrikonasana_Yoga-Asana_Nina-Mel.jpg",
+    "photographer": "Kennguru",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "downloadDate": "2026-09-27"
+  },
+  "tree_pose": {
+    "exerciseName": "Tree Pose",
+    "file": "exercises/yoga/tree_pose.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3APostura_da_%C3%81rvore_Yoga.jpg",
+    "photographer": "Camilasuga",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-09-27"
+  },
+  "childs_pose": {
+    "exerciseName": "Child's Pose",
+    "file": "exercises/yoga/childs_pose.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHatha_yoga_child_pose.jpg",
+    "photographer": "Daniel Case",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "downloadDate": "2026-09-27"
+  },
+  "neck_shoulder_rolls": {
+    "exerciseName": "Neck & Shoulder Rolls",
+    "file": "exercises/stretching/neck_shoulder_rolls.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AA_woman_in_a_pink_athletic_top_is_gently_stretching_her_neck_indoors%2C_with_her_back_partially_turned.jpg",
+    "photographer": "Shixart1985",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "downloadDate": "2026-09-27"
+  },
+  "cat_cow": {
+    "exerciseName": "Cat-Cow Stretch",
+    "file": "exercises/stretching/cat_cow.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABlack_and_White_Cat_pose_%288256514590%29.jpg",
+    "photographer": "Sheila Sund from Salem, United States",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "downloadDate": "2026-09-27"
+  },
+  "hamstring_stretch": {
+    "exerciseName": "Seated Hamstring Stretch",
+    "file": "exercises/stretching/hamstring_stretch.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3APaschimottanasana.jpg",
+    "photographer": "Joseph RENGER",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "downloadDate": "2026-09-27"
+  },
+  "hip_flexor_stretch": {
+    "exerciseName": "Hip Flexor Stretch",
+    "file": "exercises/stretching/hip_flexor_stretch.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAnjaneyasana%2C_Heinz_Grill_1992.jpg",
+    "photographer": "Martin Sinzinger, Fotograf",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-09-27"
+  },
+  "gentle_arm_swings": {
+    "exerciseName": "Gentle Arm Swings",
+    "file": "exercises/morning_move/gentle_arm_swings.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAirplanes_-_Miscellaneous_-_Training_camp_activities._Equilibrium_calisthenics_-_NARA_-_17341322.jpg",
+    "photographer": "Unknown authorUnknown author or not provided",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "downloadDate": "2026-09-27"
+  },
+  "high_knee_march": {
+    "exerciseName": "High Knees March",
+    "file": "exercises/morning_move/high_knee_march.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AExercise_Saffron_Sands_-_New_kit_MOD_45148120.jpg",
+    "photographer": "Mike Weston ABIPP",
+    "license": "OGL v1.0",
+    "licenseUrl": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/",
+    "downloadDate": "2026-09-27"
+  },
+  "side_lunges": {
+    "exerciseName": "Side Lunges",
+    "file": "exercises/morning_move/side_lunges.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AUSMC-100330-M-3740P-008.jpg",
+    "photographer": "Lance Cpl. Jennifer J. Pirante",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "downloadDate": "2026-09-27"
+  },
+  "torso_twists": {
+    "exerciseName": "Torso Twists",
+    "file": "exercises/morning_move/torso_twists.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABack_view_of_a_woman_performing_a_stretching_exercise_for_the_spine.jpg",
+    "photographer": "Shixart1985",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "downloadDate": "2026-09-27"
+  },
+  "calf_raises": {
+    "exerciseName": "Calf Raises",
+    "file": "exercises/morning_move/calf_raises.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACalf-raises-1.png",
+    "photographer": "Everkinetic",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "downloadDate": "2026-09-27"
+  },
+  "burpees": {
+    "exerciseName": "Burpees",
+    "file": "exercises/hiit/burpees.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACrossFit_Open_12.1_-_Burpees.jpg",
+    "photographer": "Travis Isaacs (photos\u00a0\u00b7 photo sets)",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "downloadDate": "2026-09-27"
+  },
+  "speed_skaters": {
+    "exerciseName": "Speed Skaters",
+    "file": "exercises/hiit/speed_skaters.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AVanessa_Bittner_-_Team_Austria_Winter_Olympics_2014.jpg",
+    "photographer": "Manfred Werner - Tsui",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "downloadDate": "2026-09-27"
+  },
+  "jump_squats": {
+    "exerciseName": "Jump Squats",
+    "file": "exercises/hiit/jump_squats.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AJumping_split_squat_with_dumbbells_1.png",
+    "photographer": "RickyBennison",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-09-27"
+  },
+  "sprint_in_place": {
+    "exerciseName": "Sprint in Place",
+    "file": "exercises/hiit/sprint_in_place.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AArman_Hall_USA_relay_2013.jpg",
+    "photographer": "USA_4x400_m_Moscow_2013.jpg: Erik van Leeuwen, attribution: Erik van Leeuwen (bron: Wikipedia).\nderivative work: Jonas kam",
+    "license": "GFDL",
+    "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+    "downloadDate": "2026-09-27"
+  },
+  "tuck_jumps": {
+    "exerciseName": "Tuck Jumps",
+    "file": "exercises/hiit/tuck_jumps.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGood_tuck_and_plenty_of_power_-_Flickr_-_lostinfog.jpg",
+    "photographer": "lostinfog",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "downloadDate": "2026-09-27"
+  },
+  "deep_belly_breathing": {
+    "exerciseName": "Deep Belly Breathing",
+    "file": "exercises/relaxing_yoga/deep_belly_breathing.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASimon_Nyagetochi_doing_yoga.jpg",
+    "photographer": "Cimon51simion",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "downloadDate": "2026-09-27"
+  },
+  "reclining_butterfly": {
+    "exerciseName": "Reclining Butterfly",
+    "file": "exercises/relaxing_yoga/reclining_butterfly.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABaddha_Ko%E1%B9%87%C4%81sana-bound_angle.jpg",
+    "photographer": "Jfbongar\u00e7on",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "downloadDate": "2026-09-27"
+  },
+  "supine_spinal_twist": {
+    "exerciseName": "Supine Spinal Twist",
+    "file": "exercises/relaxing_yoga/supine_spinal_twist.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AArdha_Matsyendrasana%2C_Heinz_Grill_1992.jpg",
+    "photographer": "Martin Sinzinger, Fotograf",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-09-27"
+  },
+  "legs_up_the_wall": {
+    "exerciseName": "Legs Up The Wall",
+    "file": "exercises/relaxing_yoga/legs_up_the_wall.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AComo_subir_nas_invertidas.jpg",
+    "photographer": "Marcocarvalho",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "downloadDate": "2026-09-27"
+  },
+  "savasana": {
+    "exerciseName": "Savasana",
+    "file": "exercises/relaxing_yoga/savasana.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AShavasana.jpg",
+    "photographer": "Joseph RENGER",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "downloadDate": "2026-09-27"
+  },
+  "plank_knee_taps": {
+    "exerciseName": "Plank with Knee Taps",
+    "file": "exercises/gemini/plank_knee_taps.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AU.S._Marine_Corps_Sgt._Jonathan_Benezette_demonstrates_the_left_plank_position_during_Marine_Corps_martial_arts_training_aboard_the_dock_landing_ship_USS_Oak_Hill_%28LSD_51%29_during_Amphibious-Southern_Partnership_111009-A-WF228-011.jpg",
+    "photographer": "SGT Thomas Childs",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "downloadDate": "2026-09-27"
+  },
+  "plank_shoulder_taps": {
+    "exerciseName": "High Plank Shoulder Taps",
+    "file": "exercises/gemini/plank_shoulder_taps.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAir_Force_personal_trainer_volunteers_to_get_others_in_shape_110713-A-YQ616-070.jpg",
+    "photographer": "Petty Officer 2nd Class Maddelin Angebrand",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "downloadDate": "2026-09-27"
+  },
+  "worlds_greatest_stretch": {
+    "exerciseName": "World's Greatest Stretch",
+    "file": "exercises/gemini/worlds_greatest_stretch.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAnjaneyasana%2C_Heinz_Grill_1992.jpg",
+    "photographer": "Martin Sinzinger, Fotograf",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-09-27"
+  },
+  "pigeon_pose": {
+    "exerciseName": "Pigeon Pose / Glute Opener",
+    "file": "exercises/gemini/pigeon_pose.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEka-Pada-Raja-Kapotasana_Yoga-Asana_Nina-Mel.jpg",
+    "photographer": "Kennguru",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "downloadDate": "2026-09-27"
+  },
+  "bird_dog": {
+    "exerciseName": "Bird-Dog Balance",
+    "file": "exercises/gemini/bird_dog.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGirl_doing_bird_dog_yoga_pose.jpg",
+    "photographer": "PTPioneer",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "downloadDate": "2026-09-27"
+  },
+  "gemini_jump_squats": {
+    "exerciseName": "Jump Squats (AI)",
+    "file": "exercises/hiit/jump_squats.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AJumping_split_squat_with_dumbbells_1.png",
+    "photographer": "RickyBennison",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-09-27",
+    "reusedFrom": "jump_squats"
+  },
+  "gemini_mountain_climbers": {
+    "exerciseName": "Mountain Climbers (AI)",
+    "file": "exercises/home_workout/mountain_climbers.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStaying_%27kid%27_fit_all_spring_long_140317-M-TH981-003.jpg",
+    "photographer": "Kristen Wong",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "downloadDate": "2026-09-27",
+    "reusedFrom": "mountain_climbers"
+  },
+  "gemini_glute_bridges": {
+    "exerciseName": "Glute Bridges with Hold (AI)",
+    "file": "exercises/home_workout/glute_bridges.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASetubandhasana_oblique_view.JPG",
+    "photographer": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "downloadDate": "2026-09-27",
+    "reusedFrom": "glute_bridges"
+  },
+  "gemini_cat_cow": {
+    "exerciseName": "Cat-Cow Spinal Flow (AI)",
+    "file": "exercises/stretching/cat_cow.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABlack_and_White_Cat_pose_%288256514590%29.jpg",
+    "photographer": "Sheila Sund from Salem, United States",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "downloadDate": "2026-09-27",
+    "reusedFrom": "cat_cow"
+  },
+  "gemini_childs_pose": {
+    "exerciseName": "Child's Pose with Side Reach (AI)",
+    "file": "exercises/yoga/childs_pose.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHatha_yoga_child_pose.jpg",
+    "photographer": "Daniel Case",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "downloadDate": "2026-09-27",
+    "reusedFrom": "childs_pose"
+  },
+  "chest_opener": {
+    "exerciseName": "Chest Opener",
+    "file": "exercises/stretching/chest_opener.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AUstrasana_-_Camel_Pose.jpg",
+    "photographer": "lululemon athletica",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "downloadDate": "2026-09-27"
+  },
+  "oatmeal_blueberries": {
+    "mealName": "Oatmeal with Blueberries & Whey",
+    "file": "nutrition/oatmeal_blueberries.webp",
+    "source": "Wikimedia Commons",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Oatmeal,_blueberries_and_almond_milk.jpg",
+    "photographer": "veganbaking.net",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "downloadDate": "2026-09-28"
+  },
+  "grilled_chicken_quinoa": {
+    "mealName": "Grilled Chicken Breast with Quinoa",
+    "file": "nutrition/grilled_chicken_quinoa.webp",
+    "source": "Unsplash Licensed Food Photography",
+    "sourcePage": "https://unsplash.com/photos/ba9599a7e63c",
+    "photographer": "Eiliv Aceron",
+    "license": "Unsplash Free License (Commercial & Editorial Use)",
+    "licenseUrl": "https://unsplash.com/license",
+    "downloadDate": "2026-09-28"
+  },
+  "greek_yogurt_almonds": {
+    "mealName": "Greek Yogurt & Almonds",
+    "file": "nutrition/greek_yogurt_almonds.webp",
+    "source": "Unsplash Licensed Food Photography",
+    "sourcePage": "https://unsplash.com/photos/6428a0291777",
+    "photographer": "Brooke Lark",
+    "license": "Unsplash Free License (Commercial & Editorial Use)",
+    "licenseUrl": "https://unsplash.com/license",
+    "downloadDate": "2026-09-28"
+  },
+  "baked_salmon_asparagus": {
+    "mealName": "Baked Salmon with Steamed Asparagus",
+    "file": "nutrition/baked_salmon_asparagus.webp",
+    "source": "Unsplash Licensed Food Photography",
+    "sourcePage": "https://unsplash.com/photos/2f8a72700288",
+    "photographer": "Casey Lee",
+    "license": "Unsplash Free License (Commercial & Editorial Use)",
+    "licenseUrl": "https://unsplash.com/license",
+    "downloadDate": "2026-09-28"
+  },
+  "avocado_egg_bowl": {
+    "mealName": "Avocado & Egg Power Bowl",
+    "file": "nutrition/avocado_egg_bowl.webp",
+    "source": "Unsplash Licensed Food Photography",
+    "sourcePage": "https://unsplash.com/photos/7529414344d8",
+    "photographer": "Brenda Godinez",
+    "license": "Unsplash Free License (Commercial & Editorial Use)",
+    "licenseUrl": "https://unsplash.com/license",
+    "downloadDate": "2026-09-28"
+  },
+  "lemon_grilled_salmon": {
+    "mealName": "Lemon Grilled Salmon",
+    "file": "nutrition/lemon_grilled_salmon.webp",
+    "source": "Unsplash Licensed Food Photography",
+    "sourcePage": "https://unsplash.com/photos/c8fd9a32b7a2",
+    "photographer": "Caroline Attwood",
+    "license": "Unsplash Free License (Commercial & Editorial Use)",
+    "licenseUrl": "https://unsplash.com/license",
+    "downloadDate": "2026-09-28"
+  },
+  "mediterranean_quinoa_salad": {
+    "mealName": "Mediterranean Quinoa Salad",
+    "file": "nutrition/mediterranean_quinoa_salad.webp",
+    "source": "Unsplash Licensed Food Photography",
+    "sourcePage": "https://unsplash.com/photos/a57141f2eefd",
+    "photographer": "Anna Pelzer",
+    "license": "Unsplash Free License (Commercial & Editorial Use)",
+    "licenseUrl": "https://unsplash.com/license",
+    "downloadDate": "2026-09-28"
+  },
+  "protein_peanut_butter_bites": {
+    "mealName": "Protein Peanut Butter Bites",
+    "file": "nutrition/protein_peanut_butter_bites.webp",
+    "source": "Unsplash Licensed Food Photography",
+    "sourcePage": "https://unsplash.com/photos/82535e94bc69",
+    "photographer": "Taylor Kiser",
+    "license": "Unsplash Free License (Commercial & Editorial Use)",
+    "licenseUrl": "https://unsplash.com/license",
+    "downloadDate": "2026-09-28"
+  }
+}
